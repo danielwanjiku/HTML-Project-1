@@ -2,4 +2,4 @@
 
 This a project designed to tell more about me.
 
-[website](https://html-project-1-nu.vercel.app/)
+[website](https://html-project-1-7idb.vercel.app/)
